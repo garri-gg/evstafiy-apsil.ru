@@ -1,237 +1,382 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:example="http://www.mysitemapgenerator.com/sitemap.xml">
-    <url>
-        <loc>http://evstafiy-apsil.ru/</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/index.html</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/estafi.html</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/hram.html</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/ikoni.html</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/molitva.html</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/traditions.html</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/saints.html</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/vasilisk.html</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/simon.html</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/zlatoust.html</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/starec.html</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/serafim.html</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/serafim-chichagov.html</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/nikolai.html</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/ioan.html</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/pecnopenija.html</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/news.php</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/gallery.html</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/rodina.html</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/cari.html</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/nugdi.html</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/contacts.html</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/istorija.html</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/anakopia.html</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/xramiabxazii.html</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/mono.html</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/ikabxaz.html</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/ikon_4.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/ikon_6.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/ikon_8.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/ikon_10.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/ikon_21.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/ikon_5.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/ikon_13.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/ikon_11.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/ikon_7.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/ikon_14.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/ikon_12.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/ikon_2.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/ikon_15.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/ikon_16.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/ikon_17.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/ikon_18.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/ikon_19.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/ikon_20.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/ikon_3.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/ikon_mjdfsdjfk.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/newsrss/example/index.php?year=2011&amp;month=03&amp;day=19</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/newsrss/example/index.php?id=7</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/newsrss/example/index.php?year=2011&amp;month=03&amp;day=01</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/newsrss/example/index.php?id=4</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/photo_5.JPG</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/photo_view.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/photo_dukhovenstvo_abkhaziie_view.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/photo_popi.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/photo_0_166d5_31a9393f_XL.jpeg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/photo_0_d87d_91fd6dd2_L.jpeg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/photo_0_d883_4152f8c1_L.jpeg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/photo_0_5834_b5f4bbe2_L.jpeg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/photo_005.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/photo_img02.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/29.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/221.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/661.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/1059-preview6.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/1060-preview6.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/1233-preview6.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/1281-preview6.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/1347-preview6.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/1362-preview6.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/images/3980378_large.jpg</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/newsrss/trackback.php?id=7</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/newsrss/print.php?id=7</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/newsrss/rss.php?id=7</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/newsrss/trackback.php?id=4</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/newsrss/print.php?id=4</loc>
-    </url>
-    <url>
-        <loc>http://evstafiy-apsil.ru/newsrss/rss.php?id=4</loc>
-    </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://evstafiy-apsil.ru/</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/index.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/estafi.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/hram.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/ikoni.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/molitva.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/traditions.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/saints.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/vasilisk.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/simon.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/zlatoust.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/starec.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/serafim.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/serafim-chichagov.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/nikolai.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/ioan.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/svjatoj-georgij-pobedonosec.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/panteleimon.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/pecnopenija.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/polomnichestvo.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news-archive.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/slideshow.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/gallery.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/rodina.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/cari.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/nugdi.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/contacts.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/istorija.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/anakopia.html</loc>
+  <lastmod>2017-11-05T04:40:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/xramiabxazii.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/mono.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/ikabxaz.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/slideshow-icons.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/pecni.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/kontakti.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/49.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/48.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/47.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/46.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/45.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/44.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/43.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/42.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/41.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/40.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/39.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/38.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/37.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/36.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/35.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/34.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/33.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/32.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/31.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/30.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/29.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/28.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/26.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/25.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/24.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/23.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/22.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/20.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/21.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/16.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/15.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/14.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/11.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/10.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/9.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/8.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/7.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://evstafiy-apsil.ru/news/4.html</loc>
+  <lastmod>2017-11-05T04:40:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
